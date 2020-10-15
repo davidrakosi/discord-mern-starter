@@ -86,3 +86,8 @@
 .sidebar__profileIcons>.MuiSvgIcon-root {
     padding: 10px;
 }
+
+.sidebar__channelsList {
+  height: calc(100vh - 330px);
+  overflow-y: auto;
+}
