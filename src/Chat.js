@@ -64,9 +64,9 @@ const Chat = () => {
                 </form>
 
                 <div className="chat__inputIcon">
-                    <CradGiftcardIcon fontSize='large' />
+                    <CardGiftcardIcon fontSize='large' />
                     <GifIcon fontSize='large' />
-                    <EmojiEmoticonsIcon fontSize='large' />
+                    <EmojiEmotionsIcon fontSize='large' />
                 </div>
             </div>
         </div>
